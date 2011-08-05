@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cl => console.log( string )
+# author: nebirhos
+# --
+console.log( '$1' );

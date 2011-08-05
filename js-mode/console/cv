@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cv => console.log( 'var:', var )
+# author: nebirhos
+# --
+console.log( '$1:', $1 );
