@@ -1,0 +1,8 @@
+=js-snippets
+A collection of JavaScript snippets for YASnippet
+
+Based on https://github.com/azer/js-yasnippets
+
+== INSTALL
+ $ git clone git://github.com/nebirhos/js-yasnippets.git
+ $ ruby install.rb [path to your snippets folder, DEFAULT: ~/.emacs.d/vendor/yasnippet/snippets]
